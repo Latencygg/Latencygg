@@ -27,6 +27,9 @@ I worked at Gen.G Esports as Overwatch coach before, and now I am studying Machi
 <h3>🛠️ Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-white?style=flat-square&logo=googlecloud&logoColor=white&labelColor=%234285F4&color=%234285F4"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032"/>
   <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=white&labelColor=%23181717&color=%23181717"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-white?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=%23007ACC&color=%23007ACC"/>
