@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&text=Latency's%20Devhub%20🧑🏻‍💻%20&fontColor=f7f5f5&textBg=282829&fontSize=40&fontAlign=75&fontAlignY=43&animation=fadeIn&height=250&section=header"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=white&labelColor=%23E4405F&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Flatencydev%2F"/>
+  <a href="https://www.instagram.com/latencydev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=white&labelColor=%23E4405F&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Flatencydev%2F"/>
+  </a>
   <img src="https://img.shields.io/badge/latency%40kakao.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335"/>
 </p>
 
@@ -41,4 +43,6 @@ I worked at Gen.G Esports as Overwatch coach before, and now I am studying Machi
   <img src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=white&labelColor=%23003366&color=%23003366"/>
   <img src="https://img.shields.io/badge/Pandas-white?style=flat-square&logo=pandas&logoColor=white&labelColor=%23150458&color=%23150458"/>
   <img src="https://img.shields.io/badge/sklearn-white?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=%23F7931E&color=%23F7931E"/>
+  <img src="https://img.shields.io/badge/Hadoop-white?style=flat-square&logo=apachehadoop&logoColor=white&labelColor=%2379AAFF&color=%2379AAFF"/>
+  <img src="https://img.shields.io/badge/Spark-white?style=flat-square&logo=apachespark&logoColor=white&labelColor=%23E25A1C&color=%23E25A1C"/>
 </p>
