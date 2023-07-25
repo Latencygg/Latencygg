@@ -12,7 +12,7 @@
 Hi guys! My name is Jihwan Park, and I'm studying at Chonnam National University in South Korea. <br>
 My major is Biosystem Engineering and minor is Software Engineering. <br>
   
-I worked at Gen.G Esports as Overwatch coach before, and now I am studying Machine Learning & Deep Learning. <br><br>
+I worked at Gen.G Esports as Overwatch coach before, and now I am studying DevOps Engineering. <br><br>
 
 <h3>📚 Languages & Frameworks</h3>
 <p>
