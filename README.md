@@ -14,6 +14,10 @@ My major is Biosystem Engineering and minor is Software Engineering. <br>
   
 I worked at Gen.G Esports as Overwatch coach before, and now I am studying DevOps Engineering. <br><br>
 
+<h3> 🗂️ Project </h3>
+
+  - [AI/빅데이터 기반의 영유아 대상 식단 추천 서비스, 키플](https://github.com/Latencygg/kipl)
+
 <h3>📚 Tech Stack</h3>
 
 | Category | Tech |
