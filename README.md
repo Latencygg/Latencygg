@@ -23,6 +23,8 @@ My major is Biosystem Engineering and minor is Software Engineering. <br>
 <h3> 📝 Studying </h3>
 
   - [Python](https://github.com/Latencygg/Latencygg/tree/main/Python)
+  - [Git](https://github.com/Latencygg/Latencygg/tree/main/Git)
+  - [Machine Learning](https://github.com/Latencygg/Latencygg/tree/main/ML)
 
 <h3> 🗂️ Project </h3>
 
