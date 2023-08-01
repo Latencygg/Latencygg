@@ -117,3 +117,48 @@
 ***
 
 ### ✔️ if else와 elif 구문
+
+#### else 조건문
+  - if문을 반복하여 조건을 비교하는 작업이 작업면에서나 시간적으로 낭비기 때문에 else 구문을 사용합니다.
+  - else 구문은 if 조건문 뒤에 사용하며, if 조건문의 조건이 거짓일 때 실행됩니다.
+  ```
+  if num % 2 == 0:
+    print("짝수")
+  else
+    print("홀수")
+  ```
+#### elif 구문
+  - 세 개 이상의 조건을 연결해서 사용해야 할 때 elif 구문을 사용합니다.
+  ```
+  # 변수 선언
+  score = float(input("학점을 입력하세요: "))
+
+  # 조건문 적용
+  if score == 4.5:
+    print("A+")
+  elif score >= 4.0:
+    print("A")
+  elif score >= 3.5:
+    print("B+")
+  elif score >= 3.0:
+    print("B")
+  elif score >= 2.5:
+    print("C+")
+  elif score >= 2.0:
+    print("C")
+  elif score >= 1.5:
+    print("D+")
+  elif score >= 1.0:
+    print("D")
+  else:
+    print("F")
+  ```
+  > elif 구문을 사용할 때는 앞 단계 조건문에서 비교했던 것을 다음 단계에서 한 번 더 하고 있는지 확인해야 합니다.
+#### False로 변환되는 값
+  - if 조건문의 매개변수에 불이 아닌 다른 값이 올 때 자동으로 이를 불로 변환하여 처리합니다.
+  - False로 변환되는 값은 None/숫자 0 및 0.0/빈컨테이너(빈 문자열/빈 바이트열/빈 리스트/빈 튜플/빈 딕셔너리)이고, 이 외에는 모두 True로 변환됩니다.
+#### pass 키워드
+  - 프로그래밍의 전체 골격을 잡아 놓고 내부에서 나중에 구현하려고 구문을 비워둘 때 pass 키워드를 사용합니다.
+  - 조건문에서 결과를 출력하는 라인에 `pass`를 입력하여 사용할 수 있습니다.
+#### raise NotImplementedError
+  - pass 키워드를 사용했을 때 후에 구현하는 것을 잊어버리는 경우를 방지하기 위해 `raise NotImplementedError`를 입력하여 구현하지 않은 부분이 있을 때 오류를 발생시켜 리마인드할 수 있습니다.
