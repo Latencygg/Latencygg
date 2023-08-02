@@ -249,3 +249,7 @@
   for key in dict:
     print(key, ":", dict[key])
   ```
+
+***
+
+### ✔️ 범위 자료형과 while 반복문
