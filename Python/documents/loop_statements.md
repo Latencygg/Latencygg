@@ -98,7 +98,7 @@
   f in list_1 # 리스트 내에 f라는 요소가 없기 때문에 False를 출력합니다.
   f not in list_1 # 리스트 내에 f라는 요소가 없기 때문에 True를 출력합니다.
   ```
-  - for 반복문
+#### for 반복문
   ```
   # 기본적인 for 반복문의 구문의 예시
   for i in range(x)
