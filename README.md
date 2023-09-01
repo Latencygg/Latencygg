@@ -10,7 +10,7 @@
 <h3>Thanks for your coming 🥰</h3>
 
 Hi guys! My name is Jihwan Park, and I'm studying at Chonnam National University in South Korea. <br>
-My major is Biosystem Engineering and minor is Software Engineering. <br>
+My major is Mechanical Engineering in Biosystems and minor is Software Engineering. <br>
 
 <h3> 🏃🏻 Experience </h3>
 
