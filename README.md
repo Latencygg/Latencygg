@@ -24,7 +24,6 @@ My major is Mechanical Engineering in Biosystems and minor is Software Engineeri
 
   - [Python](https://github.com/Latencygg/Latencygg/tree/main/Python)
   - [Git](https://github.com/Latencygg/Latencygg/tree/main/Git)
-  - [Machine Learning](https://github.com/Latencygg/Latencygg/tree/main/ML)
 
 <h3> 🗂️ Project </h3>
 
@@ -34,24 +33,12 @@ My major is Mechanical Engineering in Biosystems and minor is Software Engineeri
 
 | Category | Tech |
 | --- | --- |
-| Version Control System | <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032"/><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=white&labelColor=%23181717&color=%23181717"/> |
 | Programming Language | <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB"/> |
-| Cloud Service | <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-white?style=flat-square&logo=googlecloud&logoColor=white&labelColor=%234285F4&color=%234285F4"/> |
-| Library | <img src="https://img.shields.io/badge/Tensorflow-white?style=flat-square&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00"/> |
-| IDE | <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=%23007ACC"><img alt="Static Badge" src="https://img.shields.io/badge/iTerm2-%23000000?style=flat-square&logo=iterm2&logoColor=white&labelColor=%23000000"> |
 
 <h4>🔒 Preparing</h4>
-<p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white&labelColor=%2300ADD8">
-  <img src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=white&labelColor=%23003366&color=%23003366"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Network-%23512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=%23512BD4">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white&labelColor=%232496ED">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=docker&logoColor=white&labelColor=%23326CE5">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Terraform-%237B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=%237B42BC">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=white&labelColor=%23EE0000">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white&labelColor=%23FC6D26">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=%232088FF">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=%23D24939">
-  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=%23232F3E">
-</p>
 
+  | Category | Tech |
+  | --- | --- |
+  | Programming Language | <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=%2300599C"> <img alt="Static Badge" src="https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white&labelColor=%2300ADD8"> |
+  | Operating System | <img src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=white&labelColor=%23003366&color=%23003366"/> |
+  | Database | <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=%234479A1"> <img alt="Static Badge" src="https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=%23DC382D"> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=%2347A248"> |
