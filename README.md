@@ -17,7 +17,6 @@ My major is Mechanical Engineering in Biosystems and minor is Software Engineeri
   - Gen.G Esports | Coach
     + [Gen.B, First Win of Overwatch Korea Cup](http://m.newstap.co.kr/news/articleView.html?idxno=97211)
     + [Gen.G Esports Official Facebook: Overwatch Contenders Gauntlet 2019 Season 2](https://www.facebook.com/GenGesports/posts/pfbid037irT8V6ZFazejexPymMaA4byQEdgHhh8ZddioBSMKBE2s6gZFABgwf5oYzTVtpzgl)
-  - Gen.G Global Academy & Gen.G Elite Esports Academy | Assistant Teaching Coach
     + [Esports and Studies at Once! Gen.G Elite Esports Academy](https://youtu.be/fgHU_Z4Aojg?t=103)
 
 <h3> 📝 Studying </h3>
